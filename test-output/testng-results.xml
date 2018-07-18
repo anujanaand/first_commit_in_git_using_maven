@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22226" started-at="2018-07-18T17:21:39Z" finished-at="2018-07-18T17:22:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22226" started-at="2018-07-18T17:21:39Z" finished-at="2018-07-18T17:22:01Z">
+      <class name="mmt.regression.Test_MMT_LoginPage">
+        <test-method status="PASS" signature="test01()[pri:0, instance:mmt.regression.Test_MMT_LoginPage@5bb21b69]" name="test01" duration-ms="22173" started-at="2018-07-18T17:21:39Z" finished-at="2018-07-18T17:22:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- mmt.regression.Test_MMT_LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
